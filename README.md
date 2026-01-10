@@ -1,5 +1,4 @@
 
----
 
 ## 🚀 How It Works
 
