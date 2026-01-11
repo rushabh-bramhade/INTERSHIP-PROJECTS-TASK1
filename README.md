@@ -39,7 +39,7 @@ to demonstrate my understanding of **HTML, CSS, and JavaScript basics**.
 
 Feel free to connect with me for feedback or collaboration.
 
-- GitHub: *your-github-username*
+- GitHub: *https://github.com/rushabh-bramhade*
 - LinkedIn: *your-linkedin-profile*
 
 ---
