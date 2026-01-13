@@ -12,8 +12,8 @@
 ## 📸 Preview
 
 > A clean calculator interface with responsive buttons and display area.
+<img width="697" height="574" alt="image" src="https://github.com/user-attachments/assets/addaa07f-c524-4349-97bd-d68f2b367b9f" />
 
-(You can add a screenshot here later)
 
 ---
 
